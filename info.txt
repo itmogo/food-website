@@ -1,0 +1,14 @@
+DOWNLOAD THE SOURCE CODE FROM GOOGLE DRIVE ( INCLUDES IMAGES ):
+https://drive.google.com/file/d/1kS9z...
+
+swiper.js link:
+https://swiperjs.com/
+
+font awesome cdn link:
+https://cdnjs.com/libraries/font-awesome
+
+google fonts:
+https://fonts.google.com/specimen/Roboto
+
+images are from freepik:
+https://www.freepik.com/
